@@ -25,5 +25,20 @@ This project demonstrates my ability to handle real-world technical support scen
 
 It reflects practical skills required for IT Support and Technical Support roles.
 
+## Project Structure
+
+* tickets/ → Sample support tickets
+* troubleshooting-guides/ → Step-by-step issue resolution
+* communication-templates/ → User communication samples
+* escalation-notes/ → Escalation guidelines
+
+## Key Takeaways
+
+* Ability to troubleshoot common IT issues
+* Understanding of ticketing workflows
+* Clear and professional user communication
+* Awareness of escalation processes
+
+
 ## Author
 Vyshali Satta
