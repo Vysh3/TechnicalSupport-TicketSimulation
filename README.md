@@ -19,5 +19,11 @@ This project simulates real-world technical support scenarios and demonstrates h
 * Internet connectivity
 * Printer issues
 
+## Project Purpose
+
+This project demonstrates my ability to handle real-world technical support scenarios, including issue diagnosis, structured troubleshooting, and professional communication.
+
+It reflects practical skills required for IT Support and Technical Support roles.
+
 ## Author
 Vyshali Satta
